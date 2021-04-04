@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-**Tomoroki/Tomoroki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ¡Hi! [Tomoroki][website] here 👋
 
 Here are some ideas to get you started:
 
@@ -14,3 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<!-- LINKS -->
+
+[website]: https://alejandro-webfreelancer.netlify.app/
