@@ -1,5 +1,7 @@
 ### ¡Hi! [Tomoroki][website] here 👋
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/_Tomoroki_?color=%231DA1F2&label=Tomoroki&logo=twitter&style=for-the-badge)](https://twitter.com/_Tomoroki_)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
