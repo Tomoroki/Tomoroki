@@ -17,8 +17,11 @@ Hi, I'm 19 years old and I'm a person with a great interest in Software developm
 ### - Hobbies :
 
 📓 Study
+
 🎮 Gaming
+
 🌌 Watch Anime
+
 🎶 Listening Music
 
 <!-- LINKS -->
