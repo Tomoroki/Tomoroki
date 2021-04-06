@@ -4,17 +4,17 @@
 
 ---
 
-[<img align="center" src="https://media.giphy.com/media/gUnRTJ0zqHJRe/giphy.gif">][website]
+[<img align="center" width="700" hight="400" src="https://media.giphy.com/media/gUnRTJ0zqHJRe/giphy.gif">][website]
 
-### About ME 💬 :
+### 💬 About me:
 
 Hi, I'm 19 years old and I'm a person with a great interest in Software development, Artificial Intelligence, Astronomy, Physics and I always like to learn more things.
 
-### - Learning :
+#### Learning:
 
-- ✨ Currently im learning Web Development (HTML, CSS and JavaScript)
+Currently i´m learning Web Development (HTML, CSS and JavaScript) and improving my English level.
 
-### - Hobbies :
+#### Hobbies:
 
 📓 Study
 
@@ -22,7 +22,16 @@ Hi, I'm 19 years old and I'm a person with a great interest in Software developm
 
 🌌 Watch Anime
 
-🎶 Listening Music
+🎧 Listening Music
+
+---
+
+### 🚀 Coding
+
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <!-- LINKS -->
 
