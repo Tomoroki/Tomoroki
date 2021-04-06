@@ -4,7 +4,7 @@
 
 ---
 
-[<img src="https://media.giphy.com/media/gUnRTJ0zqHJRe/giphy.gif">][website]
+[<img align="center" src="https://media.giphy.com/media/gUnRTJ0zqHJRe/giphy.gif">][website]
 
 ### About ME 💬 :
 
