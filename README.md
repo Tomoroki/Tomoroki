@@ -1,10 +1,12 @@
 ### ¡Hi! [Tomoroki][website] here 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/_Tomoroki_?color=%231DA1F2&label=Tomoroki&logo=twitter&style=for-the-badge)](https://twitter.com/_Tomoroki_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_Tomoroki_?color=%231DA1F2&label=Tomoroki&logo=twitter&style=for-the-badge)](https://twitter.com/_Tomoroki_) ![GitHub followers](https://img.shields.io/github/followers/Tomoroki?color=181717&label=Tomoroki&logo=github&style=for-the-badge)
+
+---
 
 [<img src="https://media.giphy.com/media/gUnRTJ0zqHJRe/giphy.gif">][website]
 
-Here are some ideas to get you started:
+### Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
