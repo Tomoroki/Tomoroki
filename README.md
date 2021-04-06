@@ -6,6 +6,8 @@
 
 <center><img width="600" hight="400" src="https://media.giphy.com/media/gUnRTJ0zqHJRe/giphy.gif"></center>
 
+</br>
+
 ### 💬 About me:
 
 Hi, I'm 19 years old and I'm a person with a great interest in Software development, Artificial Intelligence, Astronomy, Physics and I always like to learn more things.
