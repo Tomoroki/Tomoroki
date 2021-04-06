@@ -1,21 +1,25 @@
-### ¡Hi! [Tomoroki][website] here 👋
+### ¡Hi! [Tomoroki][website] here <img  align="center" width="60" hight="150" src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/_Tomoroki_?color=%231DA1F2&label=Tomoroki&logo=twitter&style=for-the-badge)](https://twitter.com/_Tomoroki_) ![GitHub followers](https://img.shields.io/github/followers/Tomoroki?color=181717&label=Tomoroki&logo=github&style=for-the-badge)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_Tomoroki_?color=%231DA1F2&label=Tomoroki&logo=twitter&style=for-the-badge)](https://twitter.com/_Tomoroki_) [![GitHub followers](https://img.shields.io/github/followers/Tomoroki?color=181717&label=Tomoroki&logo=github&style=for-the-badge)](https://github.com/Tomoroki)
 
 ---
 
 [<img src="https://media.giphy.com/media/gUnRTJ0zqHJRe/giphy.gif">][website]
 
-### Here are some ideas to get you started:
+### About ME 💬 :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I'm 19 years old and I'm a person with a great interest in Software development, Artificial Intelligence, Astronomy, Physics and I always like to learn more things.
+
+### - Learning :
+
+- ✨ Currently im learning Web Development (HTML, CSS and JavaScript)
+
+### - Hobbies :
+
+📓 Study
+🎮 Gaming
+🌌 Watch Anime
+🎶 Listening Music
 
 <!-- LINKS -->
 
