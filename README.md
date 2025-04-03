@@ -22,10 +22,8 @@ Actualmente estoy aprendiendo Vue junto con su ecosistema (Vue Router, Pinia, Nu
 </p>
 
 ---
-
+<!-- [![Ale GitHub stats](https://github-readme-stats.vercel.app/api?username=tomoroki&show_icons=true&theme=blueberry&hide_border=true&hide=prs&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) -->
 \
-[![Ale GitHub stats](https://github-readme-stats.vercel.app/api?username=tomoroki&show_icons=true&theme=blueberry&hide_border=true&hide=prs&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomoroki&layout=compact&theme=blueberry&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- LINKS -->
