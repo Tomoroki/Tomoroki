@@ -13,11 +13,7 @@
 
 Actualmente estoy aprendiendo Vue junto con su ecosistema (Vue Router, Pinia, Nuxt) y mejorando mi nivel de inglés.
 
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">Skills</h2></summary>
-  </ul>
-</div>
+### Skills
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
