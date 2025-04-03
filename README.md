@@ -5,30 +5,23 @@
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <h3>Acerca de mí</h3>
-      <p>¡Hola! Soy estudiante de Ingeniería en Computación y un apasionado del desarrollo web. Me especializo en tecnologías como HTML, CSS, JavaScript, TypeScript, Vue, entre otras. Actualmente sigo aprendiendo y construyendo proyectos para mejorar mis habilidades.</p>
-      <p>Actualmente estoy aprendiendo Vue junto con su ecosistema (Vue Router, Pinia, Nuxt) y mejorando mi nivel de inglés.</p>
-    </td>
-    <td>
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXdiMHpiZWZoa2ltdHkwcTNzdmgwa2g1d2Y4aXU2aG9qNGhuYzhuMyZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="1500">
-    </td>
-  </tr>
-</table>
+<img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
----
+### Acerca de mí
+
+¡Hola! Soy estudiante de Ingeniería en Computación y un apasionado del desarrollo web. Me especializo en tecnologías como HTML, CSS, JavaScript, TypeScript, Vue, entre otras. Actualmente sigo aprendiendo y construyendo proyectos para mejorar mis habilidades.
+
+Actualmente estoy aprendiendo Vue junto con su ecosistema (Vue Router, Pinia, Nuxt) y mejorando mi nivel de inglés.
 
 <div id="user-content-toc">
-  <ul align="center">
+  <ul align="left">
     <summary><h2 style="display: inline-block">Skills</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,scss,vue,pinia,astro,git,npm,vite,linux,arch,vscode,figma&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,scss,vue,pinia,astro,git,npm,vite,linux,arch,vscode,figma&perline=11" />
   </a>
 </p>
 
