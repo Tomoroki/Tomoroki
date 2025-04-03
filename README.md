@@ -5,19 +5,22 @@
 
 ---
 
-<img width="1000" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXdiMHpiZWZoa2ltdHkwcTNzdmgwa2g1d2Y4aXU2aG9qNGhuYzhuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
-
-</br>
-
-### Acerca de mí
-
-¡Hola! Soy estudiante de Ingeniería en Computación y un apasionado del desarrollo web. Me especializo en tecnologías como HTML, CSS, JavaScript, TypeScript, Vue, entre otras. Actualmente sigo aprendiendo y construyendo proyectos para mejorar mis habilidades.
-
-Actualmente estoy aprendiendo Vue junto con su ecosistema (Vue Router, Pinia, Nuxt) y mejorando mi nivel de inglés.
+<table>
+  <tr>
+    <td>
+      <h3>Acerca de mí</h3>
+      <p>¡Hola! Soy estudiante de Ingeniería en Computación y un apasionado del desarrollo web. Me especializo en tecnologías como HTML, CSS, JavaScript, TypeScript, Vue, entre otras. Actualmente sigo aprendiendo y construyendo proyectos para mejorar mis habilidades.</p>
+      <p>Actualmente estoy aprendiendo Vue junto con su ecosistema (Vue Router, Pinia, Nuxt) y mejorando mi nivel de inglés.</p>
+    </td>
+    <td>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXdiMHpiZWZoa2ltdHkwcTNzdmgwa2g1d2Y4aXU2aG9qNGhuYzhuMyZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="1500">
+    </td>
+  </tr>
+</table>
 
 ---
 
-<div>
+<div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Skills</h2></summary>
   </ul>
@@ -32,10 +35,9 @@ Actualmente estoy aprendiendo Vue junto con su ecosistema (Vue Router, Pinia, Nu
 ---
 
 \
+[![Ale GitHub stats](https://github-readme-stats.vercel.app/api?username=tomoroki&show_icons=true&theme=blueberry&hide_border=true&hide=prs&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomoroki&layout=compact&theme=blueberry&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomoroki&layout=compact&theme=blueberry&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- LINKS -->
 
