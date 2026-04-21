@@ -3,8 +3,6 @@
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/_Tomoroki_?color=%231DA1F2&label=Tomoroki&logo=twitter&style=for-the-badge)](https://x.com/_Tomoroki_)
 [![GitHub followers](https://img.shields.io/github/followers/Tomoroki?color=181717&label=Tomoroki&logo=github&style=for-the-badge)](https://github.com/Tomoroki) -->
 
----
-
 <img align="right" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 ### Acerca de mí
